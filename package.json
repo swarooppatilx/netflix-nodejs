@@ -8,16 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piyushpatilx/netflix.git"
+    "url": "git+https://github.com/piyushpatilx/netflix-nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piyushpatilx/netflix/issues"
+    "url": "https://github.com/piyushpatilx/netflix-nodejs/issues"
   },
-  "homepage": "https://github.com/piyushpatilx/netflix#readme",
+  "homepage": "https://github.com/piyushpatilx/netflix-nodejs#readme",
   "dependencies": {
     "ejs": "^3.1.9",
     "express": "^4.18.2"
-  }
+  },
+  "builds": [
+      { "src": "app.js", "use": "@vercel/node" }
+   ],
+   "routes": [
+      { "src": "/(.*)", "dest": "/app.js" }
+   ]
 }
