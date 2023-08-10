@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+
+    <body>
+        <form action="/add-movie" method="post">
+            <b>Movie Details</b><br />
+            <input type="number" name="id" value="<%= id %>" readonly hidden required /><br />
+            <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Name</span>
+                </div>
+                <input type="text" name="name" required /><br />
+            </div>
+            <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">./images/</span>
+                </div>
+                <input type="text" name="img" required /><br />
+            </div>
+            <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                    <span class="input-group-text ">https://www.youtube.com/embed/</span>
+                </div>
+                <input type="text" name="url" required /><br />
+            </div>
+            <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Info</span>
+                </div>
+                <input type="text" name="info" required /><br />
+            </div>
+
+            <input type="submit" value="Submit" />
+        </form>
+    </body>
+
+</html>

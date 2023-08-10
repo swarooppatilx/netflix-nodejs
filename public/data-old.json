@@ -1,0 +1,158 @@
+[
+
+
+  {
+  "id": 1,
+ "name": "Master",
+ "img": "./images/master.jpg",
+ "url": "https://www.youtube.com/embed/JrzK_jJsXho",
+ "info": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities."
+ },
+{ 
+    "id": 2,
+    "name": "MCK",
+    "img": "./images/mck.jpg",
+    "url": "https://www.youtube.com/embed/oqcXT3tkZD0",
+    "info": "Siddhartha Reddy gets a posting as a district collector for the Guntur district in Andhra Pradesh. There he goes against Rajappa, a local rowdy and politician."
+},
+  {
+    "id": 3,
+    "name": "Dear Comarade",
+    "img": "./images/dear-comrade.jpg",
+    "url": "https://www.youtube.com/embed/zzhfvt5vZHI",
+    "info": "A hot-blooded student union leader falls for a state-level cricketer but his anger management issues and violent streak threatens to derail their love story."
+},
+{
+    "id": 4,
+    "name": "Dwaraka",
+    "img": "./images/dwaraka.jpg",
+    "url": "https://www.youtube.com/embed/PXd8Uio4TSs",
+    "info": "A thief falls in love and this changes his life."
+},
+ {
+    "id": 5,
+    "name": "Majili",
+    "img": "./images/majili.jpg",
+    "url": "https://www.youtube.com/embed/lIIvFgwREsI",
+    "info": "After being abandoned by his lover, Anshu, Poorna takes to alcohol and is forced to marry his neighbour, Sravani. However, he soon discovers her unrequited love for him and falls for her."
+},
+ {
+    "id": 6,
+    "name": "Dhruva",
+    "img": "./images/dhruva.jpg",
+    "url": "https://www.youtube.com/embed/HntqNeGjcvQ",
+    "info": "A committed police officer is on a very dangerous mission to destroy the most corrupt person in the country, Siddharth Abhimanyu."
+},
+{
+    "id": 7,
+    "name": "Check",
+    "img": "./images/check.jpg",
+    "url": "https://www.youtube.com/embed/NpJ6lnbgi_s",
+    "info": "The story of a prisoner on Death row fighting his wrongful conviction in the backdrop of Chess."
+},
+{
+    "id": 8,
+    "name": "Dumdaar Khiladi",
+    "img": "./images/dumdaar-khiladi.jpg",
+    "url": "https://www.youtube.com/embed/zAVmwt_U4c0",
+    "info": "After a rocky start, a friendship develops between a happy-go-lucky youth and a girl from the city."
+},
+{
+    "id": 9,
+    "name": "Srinivasa kalyanam",
+    "img": "./images/shrinivasa-kalyanam.jpg",
+    "url": "https://www.youtube.com/embed/IbPKZOY2yq8",
+    "info": " 'Srinivasa Kalyanam' illustrates the sacred bond with another human through nuptial rituals and the sanctity of the institution of marriage."
+},
+{
+    "id": 10,
+    "name": "Mr Majnu",
+    "img": "./images/mr-majnu.jpg",
+    "url": "https://www.youtube.com/embed/zR52MgYhm_Q",
+    "info": "A charming playboy who has never had a serious relationship finds himself in a spot of bother when he finally meets the right girl"
+},
+{
+    "id": 11,
+    "name": "Super Khiladi 3",
+    "img": "./images/Super-Khiladi-3.jpg",
+    "url": "https://www.youtube.com/embed/vkuiI430d_0",
+    "info": "Hari (Ram), a DJ, proposes to many girls but none of them accepts his love. One day he sees a beautiful girl Sailaja (Keerthi Suresh) and she seems to like him too, but fear of rejection keeps him from speaking up."
+},
+{
+    "id": 12,
+    "name": "No. 1 Dilwala",
+    "img": "./images/no1dilwala.jpg",
+    "url": "https://www.youtube.com/embed/1-Au1PmzkI0",
+    "info": "It's about friendship between 2 friends and how their life changes when a new girl comes into their life and how their friendship will be impacted upon her arrival."
+},
+{
+    "id": 13,
+    "name": "VIP 2",
+    "img": "./images/vip2.jpg",
+    "url": "https://www.youtube.com/embed/SwuIvm9y-M8",
+    "info": "A cool-headed crusader for the struggling engineers, Raghuvaran faces the powerful and arrogant owner of a construction company Vasundhara Parameswaran, as they engage in a battle to win the corporate game."
+},
+{
+    "id": 14,
+    "name": "Heart Attack 2",
+    "img": "./images/Heart-Attack2.jpg",
+    "url": "https://www.youtube.com/embed/SL1lH0GZ4Sw",
+    "info": "A man is smitten by a woman and gets her number and begins to talk to her but realizes that he has been talking to someone else, who has fallen for him. When the second woman learns the truth, she plots revenge."
+},
+{
+    "id": 15,
+    "name": "Janatha Garage",
+    "img": "./images/janta-garage.jpg",
+    "url": "https://www.youtube.com/embed/iXxg3DYaafo",
+    "info": "An environmental activist comes to Hyderabad to attend a seminar, where an unexpected encounter with a man who runs an organization for the oppressed, changes his purpose in life."
+},
+{
+    "id": 16,
+    "name": "The Digital Thief",
+    "img": "./images/digital-thief.jpg",
+    "url": "https://www.youtube.com/embed/6ym8dyK94i0",
+    "info": "A police inspector investigates a guy who traps innocent women on Facebook."
+},
+{
+    "id": 17,
+    "name": "Theeran",
+    "img": "./images/theeran.jpg",
+    "url": "https://www.youtube.com/embed/xE_yyR0Zjsg",
+    "info": "Theeran, a police officer, is entrusted with the task to solve the mystery behind a series of murders. The only clue left behind is that all the murders are committed in the same pattern."
+},
+{
+    "id": 18,
+    "name": "Indian Soldier",
+    "img": "./images/indian-soldier.jpg",
+    "url": "https://www.youtube.com/embed/TgTibdqWHTg",
+    "info": "An army captain is on a mission to track down and destroy a terrorist gang and deactivate the sleeper cells under its command."
+},
+{
+    "id": 19,
+    "name": "Sivaji: The Boss",
+    "img": "./images/sivaji.jpg",
+    "url": "https://www.youtube.com/embed/NenlQz-FkLY",
+    "info": "A software engineer comes to India in order to serve the nation and invest in its welfare. A few corrupt officials and politicians try to stop him while he tries to do good for the poor."
+},
+{
+    "id": 20,
+    "name": "Thadaka 2",
+    "img": "./images/thadaka2.jpg",
+    "url": "https://www.youtube.com/embed/VQ8Gz6l6OTc",
+    "info": "The son of an egoistic businessman falls in love with an egoistic girl and has to convince her egoistic mother in order to marry her."
+},
+{
+    "id": 21,
+    "name": "Mr. Perfect",
+    "img": "./images/mr-perfect.jpg",
+    "url": "https://www.youtube.com/embed/gCXuA8qbb_c",
+    "info": "Vicky breaks his engagement with Priya, his childhood friend, after he learns that she is making many compromises for his sake. However, time makes him realize the need for compromises in life."
+},
+{
+    "id": 22,
+    "name": "RED",
+    "img": "./images/red.jpg",
+    "url": "https://www.youtube.com/embed/6UeLU0uWGbU",
+    "info": "Two lookalikes get embroiled in a murder investigation and become the prime suspects. However, as new facts come to light, the case gets complicated."
+}
+]
