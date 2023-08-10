@@ -98,11 +98,61 @@
     "img": "./images/Heart-Attack2.jpg",
     "url": "https://www.youtube.com/embed/SL1lH0GZ4Sw",
     "info": "A man is smitten by a woman and gets her number and begins to talk to her but realizes that he has been talking to someone else, who has fallen for him. When the second woman learns the truth, she plots revenge."
+},
+{
+    "id": 15,
+    "name": "Janatha Garage",
+    "img": "./images/janta-garage.jpg",
+    "url": "https://www.youtube.com/embed/iXxg3DYaafo",
+    "info": "An environmental activist comes to Hyderabad to attend a seminar, where an unexpected encounter with a man who runs an organization for the oppressed, changes his purpose in life."
+},
+{
+    "id": 16,
+    "name": "The Digital Thief",
+    "img": "./images/digital-thief.jpg",
+    "url": "https://www.youtube.com/embed/6ym8dyK94i0",
+    "info": "A police inspector investigates a guy who traps innocent women on Facebook."
+},
+{
+    "id": 17,
+    "name": "Theeran",
+    "img": "./images/theeran.jpg",
+    "url": "https://www.youtube.com/embed/xE_yyR0Zjsg",
+    "info": "Theeran, a police officer, is entrusted with the task to solve the mystery behind a series of murders. The only clue left behind is that all the murders are committed in the same pattern."
+},
+{
+    "id": 18,
+    "name": "Indian Soldier",
+    "img": "./images/indian-soldier.jpg",
+    "url": "https://www.youtube.com/embed/TgTibdqWHTg",
+    "info": "An army captain is on a mission to track down and destroy a terrorist gang and deactivate the sleeper cells under its command."
+},
+{
+    "id": 19,
+    "name": "Sivaji: The Boss",
+    "img": "./images/sivaji.jpg",
+    "url": "https://www.youtube.com/embed/NenlQz-FkLY",
+    "info": "A software engineer comes to India in order to serve the nation and invest in its welfare. A few corrupt officials and politicians try to stop him while he tries to do good for the poor."
+},
+{
+    "id": 20,
+    "name": "Thadaka 2",
+    "img": "./images/thadaka2.jpg",
+    "url": "https://www.youtube.com/embed/VQ8Gz6l6OTc",
+    "info": "The son of an egoistic businessman falls in love with an egoistic girl and has to convince her egoistic mother in order to marry her."
+},
+{
+    "id": 21,
+    "name": "Mr. Perfect",
+    "img": "./images/mr-perfect.jpg",
+    "url": "https://www.youtube.com/embed/gCXuA8qbb_c",
+    "info": "Vicky breaks his engagement with Priya, his childhood friend, after he learns that she is making many compromises for his sake. However, time makes him realize the need for compromises in life."
+},
+{
+    "id": 22,
+    "name": "RED",
+    "img": "./images/red.jpg",
+    "url": "https://www.youtube.com/embed/6UeLU0uWGbU",
+    "info": "Two lookalikes get embroiled in a murder investigation and become the prime suspects. However, as new facts come to light, the case gets complicated."
 }
-
-
-
-
-
-
 ]
