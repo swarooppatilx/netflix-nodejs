@@ -51,7 +51,7 @@ app.get("/add-movie", (req, res) => {
 app.post("/add-movie", (req, res) => {
   console.log(req.body);
   req.body.id = parseInt(req.body.id)
-  req.body.img = "./images/"+ req.body.img
+  //req.body.img = "./images/"+ req.body.img
   req.body.url = "https://www.youtube.com/embed/"+ req.body.url
 
   fs.readFile('./public/data.json', function (err, data) {
