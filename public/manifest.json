@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Netflix Clone",
+    "short_name": "Netflix",
+    "description": "Netflix Clone made with NodeJS, ExpressJS and Bootstrap",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./images/favicon.png",
+            "sizes": "512x512"
+        }
+    ]
+}

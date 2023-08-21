@@ -1,10 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <%- include('./partials/head.ejs') %>
-
+<style>
+    img {
+  width: 100px;
+  height: 150px;
+  background: url(loading.gif) 50% no-repeat;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+</style>
+<script
+  src="https://code.jquery.com/jquery-3.7.0.min.js"
+  integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+  crossorigin="anonymous"></script>
     <body>
         <form action="/add-movie" method="post">
             <b>Movie Details</b><br />
+            <img src="" id="img-tg" >
+
             <input type="number" name="id" value="<%= id %>" readonly hidden required /><br />
             <div class="input-group mb-2">
                 <div class="input-group-prepend">
@@ -16,7 +30,7 @@
                 <div class="input-group-prepend">
                     <span class="input-group-text">Img Link</span>
                 </div>
-                <input type="text" name="img" required /><br />
+                <input type="text" name="img" id="img-url" required /><br />
             </div>
             <div class="input-group mb-2">
                 <div class="input-group-prepend">
@@ -33,6 +47,13 @@
 
             <input type="submit" value="Submit" />
         </form>
+        <script>
+            $(document).ready(function(){
+            $('#img-tg').click(()=>{
+              $('#img-tg').attr('src', $('#img-url').val())
+            })
+});
+        </script>
     </body>
 
 </html>
